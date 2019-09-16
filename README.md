@@ -13,6 +13,12 @@ $ git clone https://github.com/theuves/glpi-ranking-bot-py.git
 $ cd glpi-ranking-bot-py
 ```
 
+## Instalação das dependências
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Configurações
 
 ### Dados sensíveis
