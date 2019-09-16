@@ -4,6 +4,8 @@ Telegram bot para enviar ranking dos técnicos que mais fecharam chamados no GLP
 
 *Esse é um remake em Python da versão em PHP feita em julho de 2019.*
 
+Testado na versão 9.2 do GLPi.
+
 ![](./screenshot.png)
 
 ## Download
